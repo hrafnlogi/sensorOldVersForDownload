@@ -103,7 +103,7 @@ We're going to run the enviroplus-exporter as the user ```pi``` in the directory
 1.Clone the enviroplus-exporter repository
 ```sh
 cd
-git clone https://github.com/tijmenvandenbrink/enviroplus_exporter.git
+git clone https://github.com/hrafnlogi/sensorOldVersForDownload.git
 sudo cp -r enviroplus_exporter /usr/src/
 sudo chown -R pi:pi /usr/src/enviroplus_exporter
 ```
